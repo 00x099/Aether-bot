@@ -1,0 +1,21 @@
+Privacy Policy
+
+This Privacy Policy explains how information is collected, used, and disclosed by the Aether Bot.
+
+Information Collection and Use
+We collect certain information about users of Aether Bot, including but not limited to user IDs, server IDs, and usage data. This data is used to provide and improve the service, as well as to monitor and analyze usage patterns. Specifically, when users interact with the bot in a server, we log the server ID for a limited time. This information is used to enhance the user experience and provide relevant features within the bot.
+
+Guild IDs and channel IDs are used to facilitate certain bot functionalities. Users can opt out of having their guild activity tracked by using the bot's settings command. Using the settings command, users can disable the "Guild Activity" option to prevent the bot from tracking their activity in servers.
+
+Data Retention
+We retain server and channel IDs for a limited period (up to 24 hours) to facilitate certain bot functionalities. After this period, the data is discarded and no longer stored.
+
+Information Sharing and Disclosure
+We do not share or disclose any personal information collected through Aether Bot, except as described in this Privacy Policy or with user consent. Aggregate, anonymized data may be shared for analytical purposes or to improve the service.
+
+Changes to This Privacy Policy
+We reserve the right to update or change this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated Privacy Policy on the Aether support server or through other appropriate channels.
+
+By using Aether Bot, you acknowledge that you have read, understood, and agreed to this Privacy Policy.
+
+Last Updated: [ 2/12/25 ]
